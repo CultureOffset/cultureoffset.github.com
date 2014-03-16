@@ -17,4 +17,10 @@ In the midst of calls to shift projects from GitHub to what could be equally pro
 
 # Organizations
 
+- **[Callback Women](https://www.gittip.com/CallbackWomen/)** works to promote gender diversity at tech conferences, and to support female speakers.
+- **[Ada Academy](https://www.gittip.com/adaacademy/)** provides tuition-free programming education for women transitioning into web development.
+- **[Refuge Restrooms](https://www.gittip.com/tkwidmer/)** helps transgender, intersex, and gender-nonconforming people find safe, accessible restrooms.
+- **[TransH4CK](https://www.gittip.com/TransH4CK/)** supports trans* people in tech, and facilitates tech projects which support trans* people.
+- **[Black Girls Code](http://www.blackgirlscode.com/)** teaches girls of color, ages 7 - 17, to code. They're not on gittip, and therefore technically outside the scope of this project (which is about recurring rather than one-time donations), but we highly encourage one-time donations to them anyway.
+
 # The Pledge
