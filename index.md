@@ -9,7 +9,7 @@ On 3/14/14, Julie Ann Horvath (@nrrrdcore) announced her decision to leave GitHu
 
 GitHub's internal culture has been widely criticized by STEM feminists for years, though it has made some attempts to improve both its image and its reality - notably through Horvath's Passion Projects speaker series.
 
-Many have responded to Horvath's account to her treatment by urging people to switch to Bitbucket for their repo hosting. However, this is an imperfect solution. We frankly have no reason to believe that Atlassian's internal culture is any better than GitHub's with regard to diversity. (Indeed, Atlassian's slow response to the C+= fiasco indicates that there are some axes under which they are actively worse than GitHub.) Furthermore, enough organizational workflows are dependent on GitHub specifically that switching will not be a feasible solution for many.
+Many have responded to Horvath's account of her treatment by urging people to switch to Bitbucket for their repo hosting. However, this is an imperfect solution. We frankly have no reason to believe that Atlassian's internal culture is any better than GitHub's with regard to diversity. (Indeed, Atlassian's slow response to the C+= fiasco indicates that there are some axes under which they are actively worse than GitHub.) Furthermore, enough organizational workflows are dependent on GitHub specifically that switching will not be a feasible solution for many.
 
 # Another Solution
 
@@ -24,3 +24,7 @@ In the midst of calls to shift projects from GitHub to what could be equally pro
 - **[Black Girls Code](http://www.blackgirlscode.com/)** teaches girls of color, ages 7 - 17, to code. They're not on gittip, and therefore technically outside the scope of this project (which is about recurring rather than one-time donations), but we highly encourage one-time donations to them anyway.
 
 # The Pledge
+
+To add your name to this pledge, please fork <a href="https://github.com/CultureOffset/cultureoffset.github.com">the pledge repository</a>, add your name and gittip URL to `_includes/pledge.md`, and submit a pull request. (We are aware of the irony of this system.)
+
+{% include pledge.md %}
