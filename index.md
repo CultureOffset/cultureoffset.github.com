@@ -23,6 +23,7 @@ In the midst of calls to shift projects from GitHub to what could be equally pro
 - **[TransH4CK](https://www.gittip.com/TransH4CK/)** supports trans* people in tech, and facilitates tech projects which support trans* people.
 - **[Black Girls Code](http://www.blackgirlscode.com/)** teaches girls of color, ages 7 - 17, to code. They're not on gittip, and therefore technically outside the scope of this project (which is about recurring rather than one-time donations), but we highly encourage one-time donations to them anyway.
 - **[LGBTech.org](https://www.gittip.com/LGBTechOrg/)** is an advocacy, education, and outreach organization for LGBTQ* people who work in technology.
+- **[The Ada Initiative](https://adainitiative.org/donate-monthly/)** works to support women in open technology and culture.
 
 If you have suggestions for other individuals or organizations that should be on this list, please send an email to [suggestions@cultureoffset.org](mailto:suggestions@cultureoffset.org).
 
