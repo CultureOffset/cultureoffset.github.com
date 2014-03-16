@@ -1,5 +1,5 @@
 - [Betsy Haibel](https://gittip.com/betsythemuffin)
 - [Coraline Ada Ehmke](https://www.gittip.com/bantik)
 - [Sindarina](https://www.gittip.com/sindarina)
-- [Malcolm Gin] (https://www.gittip.com/tsaomao/)
-- [Evan Light] (https://twitter.com/elight)
+- [Malcolm Gin](https://www.gittip.com/tsaomao/)
+- [Evan Light](https://twitter.com/elight)
