@@ -13,6 +13,8 @@ Many have responded to Horvath's account to her treatment by urging people to sw
 
 # Another Solution
 
+In the midst of calls to shift projects from GitHub to what could be equally problematic competitors, an alternative idea emerged. Inspired by the concept of carbon offset credits, we are calling for individuals and organizations who rely on GitHub for critical infrastructure to offset the impact of supporting the organization by donating an equal amount of money monthly to one of the many individuals or organizations funded through GitTip who work to counter the institutional injustices so prevalent in the tech community.
+
 # Organizations
 
 # The Pledge
