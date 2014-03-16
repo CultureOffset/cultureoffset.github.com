@@ -4,3 +4,4 @@
 - [Malcolm Gin](https://www.gittip.com/tsaomao/)
 - [Evan Light](https://twitter.com/elight)
 - [Fuzz Leonard](https://twitter.com/fuzzleonard)
+- [adam j. sontag](https://twitter.com/ajpiano)
