@@ -1,0 +1,17 @@
+---
+layout: default
+title: Your New Jekyll Site
+---
+
+<div id="home">
+  <h1>The Problem</h1>
+  <p>On 3/14/14, Julie Ann Horvath (@nrrrdcore) announced her decision to leave GitHub. She is the first developer to voluntarily leave the company. Horvath cited years of gendered harassment as a motivating factor in her decision.</p>
+  <p>GitHub's</p>
+
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
