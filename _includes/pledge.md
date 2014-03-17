@@ -8,3 +8,4 @@
 - [Chris Wuest](https://twitter.com/callmewuest)
 - [Kurtis Rainbolt-Greene](https://twitter.com/krainboltgreene)
 - [Pat Hawks](https://twitter.com/pathawks)
+- [Meagan Waller](https://gittip.com/meaganewaller)
