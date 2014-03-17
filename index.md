@@ -28,6 +28,7 @@ Like carbon offsets, culture offsets are a limited tool. These donations cannot 
 - **[Black Girls Code](http://www.blackgirlscode.com/)** teaches girls of color, ages 7 - 17, to code. They're not on gittip, and therefore technically outside the scope of this project (which is about recurring rather than one-time donations), but we highly encourage one-time donations to them anyway.
 - **[LGBTech.org](https://www.gittip.com/LGBTechOrg/)** is an advocacy, education, and outreach organization for LGBTQ* people who work in technology.
 - **[The Ada Initiative](https://adainitiative.org/donate-monthly/)** works to support women in open technology and culture.
+- **[PHP Women](https://www.gittip.com/PHPWomen/)** is an inclusive and global network providing diversity support within the PHP community.
 
 If you have suggestions for other individuals or organizations that should be on this list, please send an email to [suggestions@cultureoffset.org](mailto:suggestions@cultureoffset.org).
 
