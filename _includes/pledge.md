@@ -6,3 +6,4 @@
 - [Fuzz Leonard](https://twitter.com/fuzzleonard)
 - [adam j. sontag](https://twitter.com/ajpiano)
 - [Chris Wuest](https://twitter.com/callmewuest)
+- [Pat Hawks](https://twitter.com/pathawks)
