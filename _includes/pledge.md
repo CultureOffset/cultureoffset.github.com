@@ -9,3 +9,4 @@
 - [Kurtis Rainbolt-Greene](https://twitter.com/krainboltgreene)
 - [Pat Hawks](https://twitter.com/pathawks)
 - [Meagan Waller](https://gittip.com/meaganewaller)
+- [Max Thom Stahl](https://twitter.com/villainous)
