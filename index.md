@@ -33,6 +33,6 @@ If you have suggestions for other individuals or organizations that should be on
 
 # The Pledge
 
-To add your name to this pledge, please fork <a href="https://github.com/CultureOffset/cultureoffset.github.com">the pledge repository</a>, add your name and gittip URL to `_includes/pledge.md`, and submit a pull request. (We are aware of the irony of this system.)
+To add your name to this pledge, please fork <a href="https://github.com/CultureOffset/cultureoffset.github.com">the pledge repository</a>, add your name and (optionally) your GitTip URL to `_includes/pledge.md`, and submit a pull request. (We are aware of the irony of this system.)
 
 {% include pledge.md %}
