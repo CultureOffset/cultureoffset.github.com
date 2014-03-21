@@ -11,3 +11,4 @@
 - [Meagan Waller](https://gittip.com/meaganewaller)
 - [Max Thom Stahl](https://twitter.com/villainous)
 - [Jonathan Barronville](https://twitter.com/jonathanmarvens)
+- [Varun Khaneja](https://twitter.com/aawc)
