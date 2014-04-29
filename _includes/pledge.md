@@ -14,3 +14,4 @@
 - [Varun Khaneja](https://twitter.com/aawc)
 - [Catt Small](https://www.gittip.com/cattsmall/)
 - [SparkFun](http://www.sparkfun.com) via [Christopher Clark](https://twitter.com/frencil)
+- [James Turnbull](https://www.gittip.com/kartar/)
