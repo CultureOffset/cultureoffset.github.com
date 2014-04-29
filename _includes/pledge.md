@@ -13,4 +13,4 @@
 - [Jonathan Barronville](https://twitter.com/jonathanmarvens)
 - [Varun Khaneja](https://twitter.com/aawc)
 - [Catt Small](https://www.gittip.com/cattsmall/)
-- [Christopher Clark](https://twitter.com/frencil)
+- [SparkFun](http://www.sparkfun.com) via [Christopher Clark](https://twitter.com/frencil)
