@@ -16,3 +16,4 @@
 - [SparkFun](http://www.sparkfun.com) via [Christopher Clark](https://twitter.com/frencil)
 - [James Turnbull](https://www.gittip.com/kartar/)
 - [Justin Holguin](https://www.gittip.com/holguinj)
+- [Preston Mark Stone](https://en.wikipedia.org/wiki/User:Preston_stone)
