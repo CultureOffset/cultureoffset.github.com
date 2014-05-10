@@ -18,3 +18,4 @@
 - [Justin Holguin](https://www.gittip.com/holguinj)
 - [Preston Mark Stone](https://en.wikipedia.org/wiki/User:Preston_stone)
 - [Computionist](https://www.gittip.com/computionist/)
+- [Alejandro Cabrera](https://www.gittip.com/cabrera/)
