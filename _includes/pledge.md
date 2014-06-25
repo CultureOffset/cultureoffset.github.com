@@ -1,6 +1,6 @@
 - [Betsy Haibel](https://gittip.com/betsythemuffin)
-- [Coraline Ada Ehmke](https://www.gittip.com/bantik)
-- [Sindarina](https://www.gittip.com/sindarina)
+- [Coraline Ada Ehmke](http://www.patreon.com/coraline)
+- [Sindarina](https://twitter.com/sindarina)
 - [Malcolm Gin](https://www.gittip.com/tsaomao/)
 - [Evan Light](https://twitter.com/elight)
 - [Fuzz Leonard](https://twitter.com/fuzzleonard)
