@@ -29,6 +29,7 @@ Like carbon offsets, culture offsets are a limited tool. These donations cannot 
 - **[LGBTech.org](https://www.gittip.com/LGBTechOrg/)** is an advocacy, education, and outreach organization for LGBTQ* people who work in technology.
 - **[The Ada Initiative](https://adainitiative.org/donate-monthly/)** works to support women in open technology and culture.
 - **[PHP Women](https://www.gittip.com/PHPWomen/)** is an inclusive and global network providing diversity support within the PHP community.
+- **[Trans_: An Anthology of Trans People &amp; the Internet](http://patreon.com/Trans_Anthology), the first anthology collecting the voices of trans people on how the Internet has impacted them and how they've impacted the Internet.
 
 If you have suggestions for other individuals or organizations that should be on this list, please send an email to [suggestions@cultureoffset.org](mailto:suggestions@cultureoffset.org).
 
