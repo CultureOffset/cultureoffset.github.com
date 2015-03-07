@@ -21,3 +21,4 @@
 - [Alejandro Cabrera](https://www.gittip.com/cabrera/)
 - [PJ Souders](http://twitter.com/axoplasm)
 - [Harlan Kellaway] (http://twitter.com/HarlanKellaway)
+- [Derek J Bender](https://twitter.com/djbender)
